@@ -1,7 +1,7 @@
 import SimpleGUICS2Pygame.simpleguics2pygame as simplegui
 
 frame = simplegui.create_frame("game", 300, 200)
-color = 'write'
+color = 'black'
 
 def text_input(string):
     global color
